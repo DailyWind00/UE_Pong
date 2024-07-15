@@ -9,5 +9,5 @@ Pong on Unreal Engine
       The first one at 10 points win !
 
 ###
-    Unzip pong.zip and execute "pong.exe" to play
+    Unzip Pong.zip and execute "pong.exe" to play
     The executable path is "./Pong/pong.exe"
