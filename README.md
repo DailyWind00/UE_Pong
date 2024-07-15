@@ -9,4 +9,4 @@ Pong on Unreal Engine
       The first one at 10 points win !
 
 ###
-    The executable path is ""
+    The executable path is "./Pong/pong.exe"
